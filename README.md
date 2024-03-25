@@ -1,6 +1,16 @@
-### Hi there 👋
+### Hello, I am Siwaphiwe
 
-<!--
+<a href="https://www.linkedin.com/in/siwaphiwehlazo/"><img src="https://img.shields.io/badge/-LinkenIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+.[Brief Introduction].
+I am a recent graduate with a profound interest in cyber security and a dedication in solving complex problems.
+
+## Objective
+.[Provide Objective].
+
+My journey and curiosity on how the cyber world works behind the 'screens' led me to develop my passion in cybersecurity, I am now eager to transition into this field, specifically aiming to join a security operations center (SOC) as a tier 1 analyst.
+
+## Skills
 **Waphie/Waphie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
