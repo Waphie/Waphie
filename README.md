@@ -2,25 +2,47 @@
 
 <a href="https://www.linkedin.com/in/siwaphiwehlazo/"><img src="https://img.shields.io/badge/-LinkenIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-.[Brief Introduction].
 I am a recent graduate with a profound interest in cyber security and a dedication in solving complex problems.
 
 ## Objective
-.[Provide Objective].
 
 My journey and curiosity on how the cyber world works behind the 'screens' led me to develop my passion in cybersecurity, I am now eager to transition into this field, specifically aiming to join a security operations center (SOC) as a tier 1 analyst.
 
 ## Skills
-**Waphie/Waphie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+| Skill                                         |    Associated Project           |
+|-----------------------------------------------|---------------------------------|
+| Install software in a Linux distribution
+| Perform a SQL query
+| Manage authorization
+| Filter a SQL query
+| Get help in the command line
+| Find files with Linux commands
+| Decrypt an encrypted message
+| Analyze your first packet with Wireshark
+|  Examine alerts, logs, and rules with Suricata
+| Examine alerts, logs, and rules with Suricata
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools
+
+### Certificates 
+<div>
+<img src="https://www.google.com" target="_blank"><img src="https://img.shields.io/badge/Google%20Cyber%20Security%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a>
+<img src="https://www.google.com" target="_blank"><img src="https://img.shields.io/badge/Google%20Developer-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a>
+<img src="https://www.coursera.org/" target="_blank"><img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" /></a>
+<img src="https://umich.edu/" target="_blank"><img src="https://img.shields.io/badge/University%20of%20Michigan-FFCB05?style=for-the-badge&logo=university%20of%20michigan&logoColor=blue" /></a>
+
+## Projects
+- Internal security audit
+- Network Security
+- Apply OS hardening techniques
+- Analyze network attacks
+- Using the NIST Cybersecurity Framework to respond to a security incident
+- Use Linux commands to manage file permissions
+- Apply filters to SQL queries
+- Analyze a vulnerable system for a small business
+- Document an incident with an incident handler's journal
+
+
+
+
