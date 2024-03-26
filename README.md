@@ -15,8 +15,7 @@ My journey and curiosity on how the cyber world works behind the 'screens' led m
 | Understanding auditing frameworks| <a href="https://github.com/Waphie/Internal-security-audit">Internal security audit</a> |
 |Install software in a Linux distribution | https://github.com/Waphie/Internal-security-audit
 | Perform a SQL query | <a href="https://github.com/Waphie/Performing-a-SQL-Query-Lab/tree/master">Perform a SQL query </a> |
-| Manage authorization
-| Filter a SQL query
+| Manage authorization | <a href="https://github.com/Waphie/Network-Security/tree/master">Network Security </a> |
 | Get help in the command line
 | Find files with Linux commands
 | Decrypt an encrypted message
@@ -35,7 +34,7 @@ My journey and curiosity on how the cyber world works behind the 'screens' led m
 
 ## Projects
 - <a href="https://github.com/Waphie/Internal-security-audit">Internal security audit</a>
-- Network Security
+- <a href="https://github.com/Waphie/Network-Security/tree/master">Network Security </a>
 - Apply OS hardening techniques
 - Analyze network attacks
 - Using the NIST Cybersecurity Framework to respond to a security incident
