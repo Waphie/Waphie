@@ -14,7 +14,7 @@ My journey and curiosity on how the cyber world works behind the 'screens' led m
 |-----------------------------------------------|---------------------------------|
 | Understanding auditing frameworks| <a href="https://github.com/Waphie/Internal-security-audit">Internal security audit</a> |
 |Install software in a Linux distribution | https://github.com/Waphie/Internal-security-audit
-| Perform a SQL query
+| Perform a SQL query | <a href="https://github.com/Waphie/Performing-a-SQL-Query-Lab/tree/master">Perform a SQL query </a> |
 | Manage authorization
 | Filter a SQL query
 | Get help in the command line
