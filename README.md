@@ -12,7 +12,8 @@ My journey and curiosity on how the cyber world works behind the 'screens' led m
 
 | Skill                                         |    Associated Project           |
 |-----------------------------------------------|---------------------------------|
-| Install software in a Linux distribution
+| Understanding auditing frameworks| <a href="https://github.com/Waphie/Internal-security-audit">Internal security audit</a> |
+|Install software in a Linux distribution | https://github.com/Waphie/Internal-security-audit
 | Perform a SQL query
 | Manage authorization
 | Filter a SQL query
@@ -33,7 +34,7 @@ My journey and curiosity on how the cyber world works behind the 'screens' led m
 <img src="https://umich.edu/" target="_blank"><img src="https://img.shields.io/badge/University%20of%20Michigan-FFCB05?style=for-the-badge&logo=university%20of%20michigan&logoColor=blue" /></a>
 
 ## Projects
-- Internal security audit
+- <a href="https://github.com/Waphie/Internal-security-audit">Internal security audit</a>
 - Network Security
 - Apply OS hardening techniques
 - Analyze network attacks
